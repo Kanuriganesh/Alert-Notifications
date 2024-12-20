@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Alert-Notifications/static/css/main.e8327777.css",
+    "main.js": "/Alert-Notifications/static/js/main.523edf44.js",
+    "index.html": "/Alert-Notifications/index.html",
+    "main.e8327777.css.map": "/Alert-Notifications/static/css/main.e8327777.css.map",
+    "main.523edf44.js.map": "/Alert-Notifications/static/js/main.523edf44.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8327777.css",
+    "static/js/main.523edf44.js"
+  ]
+}
